@@ -1,21 +1,28 @@
+### Olá, me chamo André Fischborn! 👋
 
-# Estou aprendendo
+Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por técnologia e estou sempre buscando aprender e colaborar em projetos incríveis.
 
-            
+#### Sobre Mim
+- 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aventurando no Desenvolvimento Web e QA.
+- 🌱 Estou sempre aprendendo e buscando novos desafios.
 
-# Desenvolvimento Web
+
+---
+## Atualmente estou estudando
+
+#### Desenvolvimento Web 🌐
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
-# Desenvolvimento Backend
 
+#### Desenvolvimento Backend 💻
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
-
-# Sistemas Operacionais
+----
+#### Sistemas Operacionais 🔄
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-
-# Contatos:
+---
+#### Contatos:
 <div>
 <a href="https://instagram.com/psicologoandregabriel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "andrefischborn@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
