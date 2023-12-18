@@ -1,9 +1,9 @@
 ### Olá, me chamo André Fischborn! 👋
 
-- Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por técnologia e estou sempre buscando aprender e colaborar em projetos incríveis.
+- Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por técnologia e estou sempre buscando aprender e colaborar em projetos disponíveis.
 
 #### Sobre Mim
-- 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aventurando no Desenvolvimento Web e QA.
+- 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aperfeiçoando no Desenvolvimento Web e QA.
 - 🌱 Estou sempre aprendendo e buscando novos desafios.
 
 
