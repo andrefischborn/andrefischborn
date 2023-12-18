@@ -1,6 +1,6 @@
 ### Olá, me chamo André Fischborn! 👋
 
-Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por técnologia e estou sempre buscando aprender e colaborar em projetos incríveis.
+- Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por técnologia e estou sempre buscando aprender e colaborar em projetos incríveis.
 
 #### Sobre Mim
 - 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aventurando no Desenvolvimento Web e QA.
@@ -8,18 +8,22 @@ Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por técnologia e estou sempre
 
 
 ---
-## Estou estudando
+# Estou estudando
 
-#### 🌐 Desenvolvimento Web 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+### 🌐 Desenvolvimento Web 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
 
-#### 💻 Desenvolvimento Backend 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+### 💻 Desenvolvimento Backend 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+
+
+### 🗄️ Banco de Dados
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 ----
-#### Sistemas Operacionais 🔄
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+### 🔄 Sistemas Operacionais
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/>
 
 ---
 #### Contatos:
