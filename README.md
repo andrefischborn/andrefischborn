@@ -4,7 +4,7 @@
 
 #### Sobre Mim
 - 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aperfeiçoando no Desenvolvimento de Softwares.
-- 🎓 Estou cursando a faculdade de Engenharia de Software.
+- 🎓 Estou cursando a faculdade de Engenharia de Softwares.
 - 🌱 Estou sempre aprendendo e buscando novos desafios.
 
 
