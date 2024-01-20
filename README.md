@@ -3,7 +3,8 @@
 - Bem-vindo(a) ao meu perfil GitHub. Sou apaixonado por tecnologia e estou sempre buscando aprender e colaborar em projetos disponíveis.
 
 #### Sobre Mim
-- 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aperfeiçoando no Desenvolvimento Web e QA.
+- 🚀 Atualmente estou fazendo transição de carreira, saindo da psicologia onde atuei por 10 anos e me aperfeiçoando no Desenvolvimento de Softwares.
+- 🎓 Estou cursando a faculdade de Engenharia de Software.
 - 🌱 Estou sempre aprendendo e buscando novos desafios.
 
 
